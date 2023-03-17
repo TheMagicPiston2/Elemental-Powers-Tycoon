@@ -1,0 +1,44 @@
+local args = {
+    [1] = "Crystal",
+    [2] = "Crystal Surge",
+    [3] = {
+        ["Camera"] = CFrame.new(-542.4495849609375, 35.062904357910156, 150.1483154296875) * CFrame.Angles(-0.30601057410240173, -0.07150226831436157, -0.022566944360733032),
+        ["Mouse"] = Vector3.new(-532.40478515625, 20.526521682739258, 121.40426635742188)
+    }
+}
+
+game:GetService("ReplicatedStorage").Remotes.DoMagic:FireServer(unpack(args))
+
+local args = {
+    [1] = "Crystal",
+    [2] = "Crystal Eruption",
+    [3] = {
+        ["Camera"] = CFrame.new(-543.23095703125, 36.82240676879883, 148.81503295898438) * CFrame.Angles(-0.28420624136924744, -0.09278697520494461, -0.027058884501457214),
+        ["Mouse"] = Vector3.new(-555.0217895507812, 20.62979507446289, 101.59611511230469)
+    }
+}
+
+game:GetService("ReplicatedStorage").Remotes.DoMagic:FireServer(unpack(args))
+
+local args = {
+    [1] = "Crystal",
+    [2] = "Energy Crown",
+    [3] = {
+        ["Camera"] = CFrame.new(-543.8563232421875, 35.553123474121094, 149.09938049316406) * CFrame.Angles(-0.2532985806465149, -0.10766318440437317, -0.027808550745248795),
+        ["Mouse"] = Vector3.new(-544.9008178710938, 20.526521682739258, 122.91255187988281)
+    }
+}
+
+game:GetService("ReplicatedStorage").Remotes.DoMagic:FireServer(unpack(args))
+
+
+local args = {
+    [1] = "Crystal",
+    [2] = "Crystal Mine",
+    [3] = {
+        ["Camera"] = CFrame.new(-543.8563232421875, 35.553123474121094, 149.09938049316406) * CFrame.Angles(-0.2532985806465149, -0.10766318440437317, -0.027808550745248795),
+        ["Mouse"] = Vector3.new(-549.2989501953125, 20.526521682739258, 106.59463500976562)
+    }
+}
+
+game:GetService("ReplicatedStorage").Remotes.DoMagic:FireServer(unpack(args))
